@@ -17,7 +17,7 @@ This project aims to detect fake news articles using Natural Language Processing
 - **Deployment**: Streamlit 
 
 ## 📁 Dataset
-- **Source**: [Kaggle Fake News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
+- **Source**: [Kaggle Fake News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
 - Contains labeled news articles with title, text, and label (`FAKE` or `REAL`)
 
 ## ⚙️ Project Structure
