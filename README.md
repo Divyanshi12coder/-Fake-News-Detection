@@ -7,7 +7,7 @@ This project aims to detect fake news articles using Natural Language Processing
 - Preprocess and clean textual data
 - Extract meaningful features using TF-IDF
 - Train and evaluate classification models
-- Deploy a simple web interface for predictions
+- Deploy a simple web interface for predictions 
 
 ## 🧠 Technologies Used
 - **Python** (Scikit-learn)
