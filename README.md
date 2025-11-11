@@ -27,7 +27,7 @@ fake-news-detection/
 ├── data/                  # Raw and cleaned datasets
 ├── notebooks/             # EDA and model training
 ├── src/                   # Python scripts for preprocessing and modeling
-├── app/                   # Streamlit or Flask app
+├── app/                   # Streamlit or Flask app 
 ├── README.md              # Project documentation
 └── requirements.txt       # Dependencies
 ```
