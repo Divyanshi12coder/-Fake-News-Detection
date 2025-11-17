@@ -4,7 +4,7 @@
 This project aims to detect fake news articles using Natural Language Processing (NLP) and machine learning techniques. By analyzing text patterns and metadata, the model classifies news as either **real** or **fake**, helping combat misinformation in digital media.
 
 ## 🎯 Objectives
-- Preprocess and clean textual data
+- Preprocess and clean textual data  
 - Extract meaningful features using TF-IDF 
 - Train and evaluate classification models
 - Deploy a simple web interface for predictions 
