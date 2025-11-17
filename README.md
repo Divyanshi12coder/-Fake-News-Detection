@@ -5,7 +5,7 @@ This project aims to detect fake news articles using Natural Language Processing
 
 ## 🎯 Objectives
 - Preprocess and clean textual data
-- Extract meaningful features using TF-IDF
+- Extract meaningful features using TF-IDF 
 - Train and evaluate classification models
 - Deploy a simple web interface for predictions 
 
